@@ -1,0 +1,5 @@
+/snap/clion/124/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yevhenii/Desktop/studingCode/CodeC++/PuzzleGame
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yevhenii/Desktop/studingCode/CodeC++/PuzzleGame/cmake-build-debug

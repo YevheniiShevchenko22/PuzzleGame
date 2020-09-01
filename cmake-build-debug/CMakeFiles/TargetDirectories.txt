@@ -1,0 +1,3 @@
+/home/yevhenii/Desktop/studingCode/CodeC++/PuzzleGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yevhenii/Desktop/studingCode/CodeC++/PuzzleGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yevhenii/Desktop/studingCode/CodeC++/PuzzleGame/cmake-build-debug/CMakeFiles/PuzzleGame.dir
